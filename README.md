@@ -1,4 +1,4 @@
-# 📚 Programming Education Repository
+# 📚 General-Academic Programming Education Repository
 
 A comprehensive educational resource covering **C Programming**, **C++ Programming**, and **Python Programming** — designed for students and beginners stepping into the world of programming.
 
